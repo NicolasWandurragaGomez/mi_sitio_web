@@ -1,0 +1,26 @@
+body{ 
+    background-color: white;
+    color: rgb(223, 5, 5);
+    text-emphasis: center;
+}
+button{
+    text-align: center;
+    background-color: rgb(223, 5, 5);
+    color: white;
+    height: 25px;
+    width: 145px;
+}
+header{
+    background-color: rgb(223, 5, 5);
+    text-align: center;
+    height: 60px;
+    max-width: 100%;
+    color: white;
+    padding: 60xp;
+}
+p{
+    color: rgb(223, 5, 5);
+}
+a{
+    color: white;
+    }
